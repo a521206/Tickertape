@@ -1,0 +1,7 @@
+# Cookies for Tickertape API authentication
+my_cookies = {
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MTA1MGFmOGJlMTFlZjE3MTYyN2JhYjkiLCJjc3JmVG9rZW4iOiJhNzRiZmViNCIsInJlZnJlc2hUb2tlbiI6IjkzNWE1NDhkLWM0MTAtNDQyYi1hMzY5LTkxMjljNjY0NmQ3Zl82NmI0M2M2NjQ4YmJkMzU4ZTZmNmE0OTUiLCJzdWJzSWQiOiJQMDAxMiIsImlhdCI6MTc0MzIzOTcxOCwiZXhwIjoxNzQzMzI2MTE3fQ.kDlNgQkq7mI-VZuP1cP9dgEpqrYz0dGxSKZtvmwD8xI"
+}
+
+# CSRF token for API authentication
+my_csrf_token = "a74bfeb4"
